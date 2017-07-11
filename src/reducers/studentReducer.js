@@ -1,10 +1,12 @@
 export default function(){
 	return [
-	'Chad',
-	'Shane',
-	'Ian',
-	'Drew',
-	'Merilee',
-	'Marissa'
+		'Chad',
+		'Shane',
+		'Ian',
+		'Drew',
+		'Guido',
+		'Porscha',
+		'Carla',
+		'YingRong'
 	]
-};
+}
